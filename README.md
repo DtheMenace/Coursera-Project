@@ -1,2 +1,2 @@
-# Test
-Testing and Messing Around
+# Python Project for Coursera
+Yeah, here it is. WOO!
